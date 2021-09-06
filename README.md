@@ -1,8 +1,6 @@
 # Inventory_Management_System
-Inventory Management System (IMS)
-
-Hello, I am Shubham JS Chaudhary. 
-This is a project based on the application of the concept of file handling on JSON files through the implementation of an INventory Management System.
+Hello, I am Shubham JS Chaudhary.   
+This is a project based on the application of the concept of file handling on JSON files through the implementation of an Inventory Management System.
 
 The files present in the project are shown below with their description:
 1. IMS_Purchase_Portal.ipynb  :  Jupyter Notebook with the program for customer buying products from inventory.
